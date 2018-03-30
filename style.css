@@ -1,0 +1,22 @@
+
+.container{
+    align-items: center;
+}
+
+div{
+    display: block;
+}
+
+.dresstemplete{
+    border:1px solid black;
+}
+
+.col-sm-4 {
+    width: 33.33333333%;
+}
+img, h3 , h2 , h1 , button , p, span{
+    margin-left:100px;
+} 
+img{
+    margin-top:10px;
+}
